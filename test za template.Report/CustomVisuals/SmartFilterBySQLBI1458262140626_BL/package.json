@@ -1,0 +1,29 @@
+{
+  "version": "24.3.0.0",
+  "author": {
+    "name": "Power ON",
+    "email": "vizsupport@poweronbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/SmartFilterBySQLBI1458262140626_BL.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "SmartFilterBySQLBI1458262140626_BL",
+    "name": "SmartFilter",
+    "displayName": "SmartFilter Helper visual",
+    "version": "24.3.0.0",
+    "description": "SmartFilter Helper visual",
+    "supportUrl": "poweronbi.com",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

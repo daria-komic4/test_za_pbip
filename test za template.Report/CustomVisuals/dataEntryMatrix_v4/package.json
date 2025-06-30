@@ -1,0 +1,29 @@
+{
+  "version": "25.1.0.0",
+  "author": {
+    "name": "PowerON",
+    "email": "vizsupport@poweronbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/dataEntryMatrix_v4.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "dataEntryMatrix_v4",
+    "name": "dataEntryMatrix",
+    "displayName": "Power ON Data Entry Matrix v4",
+    "version": "25.1.0.0",
+    "description": "Power ON Data Entry Matrix",
+    "supportUrl": "poweronbi.com",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

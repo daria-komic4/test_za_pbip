@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "author": {
+    "name": "powerON",
+    "email": "info@poweronbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/powerGantt.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "powerGantt",
+    "name": "powerGantt",
+    "displayName": "PowerGantt",
+    "version": "1.0.0",
+    "description": "powerGantt",
+    "supportUrl": "info@powerONbi.com",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

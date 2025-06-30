@@ -1,0 +1,119 @@
+{
+  "config": "{\"version\":\"5.59\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"version\":\"5.65\",\"type\":2}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":0,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true,\"useEnhancedTooltips\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "publicCustomVisuals": [
+    "vPMenu6454E8C4E1BD492A83084AB46B0C248B"
+  ],
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU10",
+            "path": "BaseThemes/CY24SU10.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "dataEntryMatrix_v4.pbiviz.json",
+            "path": "dataEntryMatrix_v4.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "dataEntryMatrix_v4",
+        "type": 0
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "PBI_CV_5A618254_2118_4618_8D38_64C70BBFB182_BL_5.pbiviz.json",
+            "path": "PBI_CV_5A618254_2118_4618_8D38_64C70BBFB182_BL_5.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "PBI_CV_5A618254_2118_4618_8D38_64C70BBFB182_BL_5",
+        "type": 0
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "powerGantt.pbiviz.json",
+            "path": "powerGantt.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "powerGantt",
+        "type": 0
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "powerXL_table.pbiviz.json",
+            "path": "powerXL_table.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "powerXL_table",
+        "type": 0
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "SmartFilterBySQLBI1458262140626_BL.pbiviz.json",
+            "path": "SmartFilterBySQLBI1458262140626_BL.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "SmartFilterBySQLBI1458262140626_BL",
+        "type": 0
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "tableeditor_v2_bl.pbiviz.json",
+            "path": "tableeditor_v2_bl.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "tableeditor_v2_bl",
+        "type": 0
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{}",
+      "displayName": "Stranica 1",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "aa0c44b45b4d071c8479",
+      "visualContainers": [],
+      "width": 1280.00
+    }
+  ]
+}

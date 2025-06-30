@@ -1,0 +1,29 @@
+{
+  "version": "25.1.0.0",
+  "author": {
+    "name": "Power ON",
+    "email": "vizsupport@poweronbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/powerXL_table.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "powerXL_table",
+    "name": "powerXL",
+    "displayName": "Power XL Table",
+    "version": "25.1.0.0",
+    "description": "The visual enables users to connect to the Power ON Visual Planner Service and write-back to various data sources from Power BI, including robust planning, data management and data collection capabilities, utilizing full spreadsheet functionality.",
+    "supportUrl": "poweronbi.com",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

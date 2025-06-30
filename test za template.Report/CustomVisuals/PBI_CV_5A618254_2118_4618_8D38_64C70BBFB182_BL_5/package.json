@@ -1,0 +1,29 @@
+{
+  "version": "1.5.2",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/PBI_CV_5A618254_2118_4618_8D38_64C70BBFB182_BL_5.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "PBI_CV_5A618254_2118_4618_8D38_64C70BBFB182_BL_5",
+    "name": "barChart",
+    "displayName": "Bar Chart",
+    "version": "1.5.2",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

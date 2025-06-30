@@ -1,0 +1,29 @@
+{
+  "version": "25.1.0.0",
+  "author": {
+    "name": "Power ON",
+    "email": "vizsupport@poweronbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/tableeditor_v2_bl.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "tableeditor_v2_bl",
+    "name": "tableEditor",
+    "displayName": "Power ON Table Editor v2",
+    "version": "25.1.0.0",
+    "description": "Power ON Table Editor v2",
+    "supportUrl": "poweronbi.com",
+    "gitHubUrl": "",
+    "visualClassName": "Visual"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}
